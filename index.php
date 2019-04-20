@@ -2,8 +2,8 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8">
-    <title>test page</title>
-    <link rel="stylesheet" href="css/style.css">
+    <title>JS animations</title>
+    <?php require_once("templates/communs/header.html") ;?>
 
 
 </head>

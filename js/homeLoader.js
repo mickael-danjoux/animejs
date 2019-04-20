@@ -1,3 +1,7 @@
+$( document ).ready( function(){
+  console.log("ready !");
+});
+
 const wrapperEl = document.querySelector('.wrapper');
 const numberOfEls = 90;
 const duration = 6000;
